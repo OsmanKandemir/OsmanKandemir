@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##About Me
+
+I’m currently Cyber Security Consultant - Software Developer
+I’m currently working about Cyber Intelligence
