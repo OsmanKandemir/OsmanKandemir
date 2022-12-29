@@ -1,21 +1,17 @@
-### Hi there 👋
 
-<!--
-**OsmanKandemir/OsmanKandemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I Am Osman
 
-Here are some ideas to get you started:
+- I am a Computer Engineer.
+- I have worked from 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the some companies as a Backend Developer - Security Consultant.
 
-- 🔭 I’m currently Cyber Security Consultant - Software Developer
-- 🌱 I’m currently working about Cyber Intelligence
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+</td><td valign="top" width="25%">
 
-##About Me
+## 🖥️ Fav Tech Stack
 
-I’m currently Cyber Security Consultant - Software Developer
-I’m currently working about Cyber Intelligence
+
+- Python
+- Linux 
+- Docker
+- HTML,CSS,Javascript,PHP
+ 
