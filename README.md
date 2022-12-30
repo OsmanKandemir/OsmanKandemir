@@ -5,6 +5,8 @@
 - I have worked from 2020 on some companies as a Backend Developer - Security Consultant.
 - I'm currently working about Cyber Intelligence (HUMINT,GEOINT,IMINT,VIDINT,PHOTINT,MASINT,OSINT,TECHINT,SIGINT,COMINT,ELINT) and developing a SaaS Security Software for company.
 
+- I generally codes at in gitlab private repository.
+
 
  
 </td><td valign="top" width="25%">
