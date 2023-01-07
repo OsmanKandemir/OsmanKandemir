@@ -3,7 +3,7 @@
 
 - I am a Computer Engineer.
 - I have been working from 2020 on BG-TEK Company as a Backend Developer - Security Consultant.
-- I'm currently working about Cyber Intelligence (HUMINT,GEOINT,IMINT,VIDINT,PHOTINT,MASINT,OSINT,TECHINT,SIGINT,COMINT,ELINT) and developing a SaaS Security Software for company also I have been working Network fundamentals for CCNA.
+- I'm currently working about Cyber Intelligence (HUMINT,GEOINT,IMINT,VIDINT,PHOTINT,MASINT,OSINT,TECHINT,SIGINT,COMINT,ELINT) and developing a SaaS Security Software for company also I have been working network fundamentals for CCNA.
 
 - I usually work in private repositories.
 
