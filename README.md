@@ -2,10 +2,10 @@
 ## 👋 Hi, I Am Osman
 
 - I am a Computer Engineer.
-- I have worked from 2020 on some companies as a Backend Developer - Security Consultant.
-- I'm currently working about Cyber Intelligence (HUMINT,GEOINT,IMINT,VIDINT,PHOTINT,MASINT,OSINT,TECHINT,SIGINT,COMINT,ELINT) and developing a SaaS Security Software for company.
+- I have been working from 2020 on BG-TEK Company as a Backend Developer - Security Consultant.
+- I'm currently working about Cyber Intelligence (HUMINT,GEOINT,IMINT,VIDINT,PHOTINT,MASINT,OSINT,TECHINT,SIGINT,COMINT,ELINT) and developing a SaaS Security Software for company also I have been working Network fundamentals for CCNA.
 
-- I generally codes at in private repository.
+- I usually work in private repositories.
 
 
 
