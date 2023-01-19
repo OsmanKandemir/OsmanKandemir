@@ -6,7 +6,7 @@
 - I'm currently working about Cyber Intelligence and developing a SaaS Security Software for company.
 
 - I usually work in private repositories.
-- I want to be a Cyber Security Expert or Network Security Expert also I have been working network fundamentals for CCNA.
+- I want to be a Cyber Security Expert or Network Security Expert also I have been working network fundamentals for CCNA, CCNP and Cisco CyberOPS.
 
 
 
