@@ -6,7 +6,7 @@
 - I'm currently working about Cyber Intelligence and developing a SaaS Security Software for company.
 
 - I usually work in private repositories.
-- I want to be a Cyber Security Expert or Network Security Expert also I have been working network fundamentals for CCNA, CCNP and Cisco CyberOPS.
+- I want to be a Cyber Security Expert also I have been working network fundamentals for CCNA, CCNP and Cisco CyberOPS.
 
 
 
@@ -60,6 +60,7 @@
 | ISO 27001 Bilgi Güvenliği Yönetim Sistemi  | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
 | Dijital Çağda Stratejik Düşünme Teknikleri | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
 | Siber Güvenlik Tehdit Alanı                | Linkedin Learning           | https://www.linkedin.com/            |
+| Cyber Threat Intelligence                  | Coursera - IBM              | https://www.coursera.com/            |
 | A'dan Z'ye Cisco CCNA 200 - 301            | Udemy                       | https://udemy.com/                   |
 | İş Bankası ProSchool IT Class              | Toptalent                   | https://toptalent.co/                |
 | Reverse Engineering                        | BTK                         | https://www.btk.gov.tr/              |  
