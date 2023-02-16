@@ -3,7 +3,7 @@
 
 - I am a Computer Engineer.
 - I have been working from 2020 on BG-TEK Company as a Backend Developer - Security Consultant.
-- I'm currently working about Cyber Intelligence and developing a SaaS Security Software for company.
+- I'm currently working about Cyber Intelligence and we are developing a SaaS Security Software with my teammates.
 
 - I usually work in private repositories.
 - I want to be a Cyber Security Expert also I have been working network fundamentals for CCNA, CCNP and Cisco CyberOPS.
