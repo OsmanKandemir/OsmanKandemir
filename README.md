@@ -1,6 +1,10 @@
 
 ## 👋 Hi, I Am Osman
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=OsmanKandemir&label=Profile Views&color=brightgreen&style=plastic" /> <a href="https://twitter.com/osmankndmr?ref_src=twsrc%5Etfw" class="twitter-follow-button">
+<img src="https://img.shields.io/twitter/follow/osmankndmr?style=social" />
+</a></p>
+
 - I am a Computer Engineer.
 - I have been working from 2020 on BG-TEK Company as a Backend Developer - Security Consultant.
 - I'm currently working about Cyber Intelligence and we are developing a SaaS Security Software with my teammates.
