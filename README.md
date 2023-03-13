@@ -60,6 +60,7 @@
  Name	Organization	Link
 |                   Name                     |    Organization             |               Link                   |
 | :----------------------------------------: | :-----------------:         | :----------------------------------- |
+| CCNAv7: Introduction to Networks           | Cisco Networking Academy    | https://www.netacad.com/             |
 | Packet Tracer Course                       | Cisco Networking Academy    | https://www.netacad.com/             |
 | ISO 27001 Bilgi Güvenliği Yönetim Sistemi  | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
 | Dijital Çağda Stratejik Düşünme Teknikleri | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
