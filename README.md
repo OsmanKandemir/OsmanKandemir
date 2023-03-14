@@ -81,7 +81,7 @@ Link : https://github.com/OsmanKandemir/myCertificates
  
  ## <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="140px" height="140px">
  
- Link : https://www.credly.com/users/osman-kandemir.35ab77b3/badges
+ Link : https://www.credly.com/users/OsmanKandemir/badges
  
  
  
