@@ -60,6 +60,7 @@
 |                   Name                     |    Organization             |               Link                   |
 | :----------------------------------------: | :-----------------:         | :----------------------------------- |
 | CCNAv7: Introduction to Networks           | Cisco - Netacad             | https://www.netacad.com/             |
+| Cybersecurity Essentials                   | Cisco Networking Academy    | https://www.netacad.com/             |
 | Packet Tracer Course                       | Cisco - Netacad             | https://www.netacad.com/             |
 | ISO 27001 Bilgi Güvenliği Yönetim Sistemi  | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
 | Dijital Çağda Stratejik Düşünme Teknikleri | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
@@ -79,6 +80,7 @@ Link : https://github.com/OsmanKandemir/myCertificates
 
  ## 🏆 Badges
  
+ ## <img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="140px" height="140px">
  ## <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="140px" height="140px">
  
  Link : https://www.credly.com/users/OsmanKandemir/badges
