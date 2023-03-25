@@ -61,9 +61,8 @@
 | :----------------------------------------: | :-----------------:         | :----------------------------------- |
 | CCNAv7: Introduction to Networks           | Cisco - Netacad             | https://www.netacad.com/             |
 | Cybersecurity Essentials                   | Cisco - Netacad             | https://www.netacad.com/             |
-| Packet Tracer Course                       | Cisco - Netacad             | https://www.netacad.com/             |
+| Python Traning (Advanced)                  | Istanbul Business Institute | https://www.iienstitu.com/           |
 | ISO 27001 Bilgi Güvenliği Yönetim Sistemi  | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
-| Dijital Çağda Stratejik Düşünme Teknikleri | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
 | Siber Güvenlik Tehdit Alanı                | Linkedin Learning           | https://www.linkedin.com/            |
 | Cyber Threat Intelligence                  | IBM - Coursera              | https://www.coursera.com/            |
 | A'dan Z'ye Cisco CCNA 200 - 301            | Udemy                       | https://udemy.com/                   |
@@ -73,7 +72,7 @@
 | Siber Güvenliğe Giriş                      | Cisco - Netacad             | https://www.netacad.com/             | 
 | Cisco LABS Crash Course                    | Codered - Eccouncil         | https://codered.eccouncil.org/       |
 | Ethical Hacking Essentials (EHE)           | Codered - Eccouncil         | https://codered.eccouncil.org/       |
-| Python Traning (Advanced)                  | Istanbul Business Institute | https://www.iienstitu.com/           |
+
 
 Link : https://github.com/OsmanKandemir/myCertificates
 
