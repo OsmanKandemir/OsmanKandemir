@@ -5,7 +5,19 @@
 <img src="https://img.shields.io/twitter/follow/osmankndmr?style=social" />
 </a></p>
 
-
+```python
+class README:
+    def __init__(self):
+        self.username = "Undefined"
+        self.contacts = {
+            "Email": "osmankandemir00[@]gmail[.]com",
+            "Telegram": "Undefined"
+            "GSM": "Undefined"
+        }
+        self.location = "localhost, Turkey"
+        self.occupation = "Security Consultant"
+        self.operating_system = "Kali Linux, Windows, Debian"
+```
 
 - I am a Computer Engineer.
 - I have been working from 2020 as a Backend Developer - Security Consultant.
