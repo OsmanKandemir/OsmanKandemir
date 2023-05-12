@@ -1,5 +1,5 @@
 
-## 👋 Hi, I Am Osman
+## 👋 Hi
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OsmanKandemir&label=Profile Views&color=brightgreen&style=plastic" /> <a href="https://twitter.com/osmankndmr?ref_src=twsrc%5Etfw" class="twitter-follow-button">
 <img src="https://img.shields.io/twitter/follow/osmankndmr?style=social" />
@@ -9,14 +9,19 @@
 class README:
     def __init__(self):
         self.username = "Undefined"
+        self.name = "Osman"
+        self.surname = "Kandemir"
+        self.age = "Undefined"
         self.contacts = {
             "Email": "osmankandemir00[@]gmail[.]com",
-            "Telegram": "Undefined"
-            "GSM": "Undefined"
+            "Whatsapp" : "Undefined",
+            "Telegram": "Undefined",
+            "GSM": "Undefined",
+            "PGP" : "Undefined"
         }
         self.location = "localhost, Turkey"
         self.occupation = "Security Consultant, Backend Developer"
-        self.operating_system = "Kali Linux, Windows, Debian"
+        self.operating_system = "Kali Linux, Windows, Debian, Ubuntu, Mint"
 ```
 
 - I am a Computer Engineer.
