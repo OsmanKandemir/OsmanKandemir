@@ -15,7 +15,7 @@ class README:
             "GSM": "Undefined"
         }
         self.location = "localhost, Turkey"
-        self.occupation = "Security Consultant"
+        self.occupation = "Security Consultant, Backend Developer"
         self.operating_system = "Kali Linux, Windows, Debian"
 ```
 
