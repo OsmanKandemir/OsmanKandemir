@@ -5,9 +5,11 @@
 <img src="https://img.shields.io/twitter/follow/osmankndmr?style=social" />
 </a></p>
 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-02f)](https://www.linkedin.com/in/itay-migdal-b91821116/)
+
 - I am a Computer Engineer.
-- I have been working from 2020 on BG-TEK Company as a Backend Developer - Security Consultant.
-- I'm currently working about Cyber Intelligence and we are developing a SaaS Security Software with my teammates.
+- I have been working from 2020 as a Backend Developer - Security Consultant.
+- I'm currently working about Cyber Intelligence and we are working on a SaaS Security Software.
 
 - I usually work in private repositories.
 - I have been working network fundamentals for CCNA, CCNP and Cisco CyberOPS.
