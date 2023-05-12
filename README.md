@@ -2,7 +2,7 @@
 ## 👋 Hi, I Am Osman
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OsmanKandemir&label=Profile Views&color=brightgreen&style=plastic" /> <a href="https://twitter.com/osmankndmr?ref_src=twsrc%5Etfw" class="twitter-follow-button">
-<img src="https://img.shields.io/twitter/follow/osmankndmr?style=social" /> [![Linkedin](https://img.shields.io/badge/-Linkedin-02f)](https://www.linkedin.com/in/itay-migdal-b91821116/)
+<img src="https://img.shields.io/twitter/follow/osmankndmr?style=social" />
 </a></p>
 
 
