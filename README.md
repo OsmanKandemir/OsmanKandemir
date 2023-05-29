@@ -76,29 +76,30 @@ class README:
  
  ## 📜 Certificates
  
-|                           Name                    |        Organization         |               Link                   |
-| :-----------------------------------------------: | :-------------------------: | :----------------------------------- |
-| CCNAv7: Introduction to Networks                  | Cisco - Netacad             | https://www.netacad.com/             |
-| CCNA: Switching, Routing, and Wireless Essentials | Cisco - Netacad             | https://www.netacad.com/             |
-| Cybersecurity Essentials                          | Cisco - Netacad             | https://www.netacad.com/             |
-| Python Traning (Advanced)                         | Istanbul Business Institute | https://www.iienstitu.com/           |
-| ISO 27001 Bilgi Güvenliği Yönetim Sistemi         | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
-| Siber Güvenlik Tehdit Alanı                       | Linkedin Learning           | https://www.linkedin.com/            |
-| Cyber Threat Intelligence                         | IBM - Coursera              | https://www.coursera.com/            |
-| A'dan Z'ye Cisco CCNA 200 - 301                   | Udemy                       | https://udemy.com/                   |
-| Reverse Engineering                               | BTK                         | https://www.btk.gov.tr/              |  
-| Versiyon Kontrolleri: Git ve GitHub               | BTK Akademi                 | https://www.btkakademi.gov.tr/       |
-| KVKK GDPR Eğitimi                                 | BTK Akademi                 | https://www.btkakademi.gov.tr/       |  
-| Siber Güvenliğe Giriş                             | Cisco - Netacad             | https://www.netacad.com/             | 
-| Cisco LABS Crash Course                           | Codered - Eccouncil         | https://codered.eccouncil.org/       |
-| Ethical Hacking Essentials (EHE)                  | Codered - Eccouncil         | https://codered.eccouncil.org/       |
+|                           Name                        |        Organization         |               Link                   |
+| :---------------------------------------------------: | :-------------------------: | :----------------------------------- |
+| CCNA: Enterprise Networking, Security, and Automation | Cisco - Netacad             | https://www.netacad.com/             |
+| CCNAv7: Introduction to Networks                      | Cisco - Netacad             | https://www.netacad.com/             |
+| CCNA: Switching, Routing, and Wireless Essentials     | Cisco - Netacad             | https://www.netacad.com/             |
+| Cybersecurity Essentials                              | Cisco - Netacad             | https://www.netacad.com/             |
+| Python Traning (Advanced)                             | Istanbul Business Institute | https://www.iienstitu.com/           |
+| ISO 27001 Bilgi Güvenliği Yönetim Sistemi             | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
+| Siber Güvenlik Tehdit Alanı                           | Linkedin Learning           | https://www.linkedin.com/            |
+| Cyber Threat Intelligence                             | IBM - Coursera              | https://www.coursera.com/            |
+| A'dan Z'ye Cisco CCNA 200 - 301                       | Udemy                       | https://udemy.com/                   |
+| Reverse Engineering                                   | BTK                         | https://www.btk.gov.tr/              |  
+| Versiyon Kontrolleri: Git ve GitHub                   | BTK Akademi                 | https://www.btkakademi.gov.tr/       |
+| KVKK GDPR Eğitimi                                     | BTK Akademi                 | https://www.btkakademi.gov.tr/       |  
+| Siber Güvenliğe Giriş                                 | Cisco - Netacad             | https://www.netacad.com/             | 
+| Cisco LABS Crash Course                               | Codered - Eccouncil         | https://codered.eccouncil.org/       |
+| Ethical Hacking Essentials (EHE)                      | Codered - Eccouncil         | https://codered.eccouncil.org/       |
 
 
 Link : https://github.com/OsmanKandemir/myCertificates
 
  ## 🏆 Badges
  
-<img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="140px" height="140px"> <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="140px" height="140px"> <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="140px" height="140px">
+<img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="140px" height="140px"> <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="140px" height="140px"> <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="140px" height="140px"> <img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="140px" height="140px">
 
 
 
