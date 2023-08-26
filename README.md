@@ -26,7 +26,7 @@ class README:
 
 - I am a Computer Engineer.
 - I have been working from 2020 as a Backend Developer - Security Consultant.
-- I'm currently working about Cyber Intelligence and we are working on a SaaS Security Software.
+- I'm currently working about Cyber Intelligence.
 
 - I usually work in private repositories.
 - I have been working network fundamentals for CCNA, CCNP and Cisco CyberOPS.
