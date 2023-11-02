@@ -24,20 +24,11 @@ class README:
         self.operating_system = "Kali Linux, Windows, Debian, Ubuntu, Mint"
 ```
 
-- I am a Computer Engineer.
-- I have been working from 2020 as a Backend Developer - Security Consultant.
-- I'm currently working about Cyber Intelligence.
-
-- I usually work in private repositories.
-- I have been working network fundamentals for CCNA, CCNP and Cisco CyberOPS.
-
-
-
  ## 🖥️ Skills
  
- - Information Security ❤
- - Cyber Security ❤
- - Backend Developer ❤
+ - Information Security
+ - Cyber Security
+ - Backend Developer
 
 ## <img src="https://cdn.iconscout.com/icon/free/png-256/coding-294-459944.png" width="24px" height="24px"> Programming
 
