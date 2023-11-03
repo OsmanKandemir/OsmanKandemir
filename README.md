@@ -68,7 +68,7 @@ class README:
  
 |                           Name                          |        Organization         |               Link                   |
 | :-----------------------------------------------------: | :-------------------------: | :----------------------------------- |
-| Cisco Certified Network Associate Routing & Switching   | Cisco - Netacad             | https://www.netacad.com/             |
+| CCNA - Cisco Certified Network Associate                | Cisco - Netacad             | https://www.netacad.com/             |
 | Python Traning (Advanced)                               | Istanbul Business Institute | https://www.iienstitu.com/           |
 | ISO 27001 Bilgi Güvenliği Yönetim Sistemi               | Boğaziçi Enstitüsü          | https://istanbulbogazicienstitu.com/ |
 | Cyber Threat Intelligence                               | IBM - Coursera              | https://www.coursera.com/            |
