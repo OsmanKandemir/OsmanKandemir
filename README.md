@@ -82,10 +82,10 @@ Link : https://github.com/OsmanKandemir/myCertificates
 
 ## 🏆 Badges
 
-<img src="https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="140px" height="140px"> <img 
-<img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="140px" height="140px">  <img 
-<img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="140px" height="140px">  <img 
-<img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="140px" height="140px">  <img 
+<img src="https://images.credly.com/size/680x680/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="140px" height="140px">  <img
+<img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="140px" height="140px">
+<img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="140px" height="140px">
+<img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="140px" height="140px">
 <img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="140px" height="140px">
 
 
