@@ -1,10 +1,12 @@
 
 ## 👋 Hi
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=OsmanKandemir&label=Profile Views&color=brightgreen&style=plastic" /> <a href="https://twitter.com/osmankndmr?ref_src=twsrc%5Etfw" class="twitter-follow-button">
 <a href="https://twitter.com/osmankndmr?ref_src=twsrc%5Etfw" class="twitter-follow-button">
 <img src="https://img.shields.io/twitter/follow/osmankndmr?style=social" />
-</a></p>
-
+</a>
+</p>
+    
 ```python
 class README:
     def __init__(self):
