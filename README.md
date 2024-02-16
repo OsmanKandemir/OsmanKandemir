@@ -1,7 +1,7 @@
 
 ## 👋 Hi
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=OsmanKandemir&label=Profile Views&color=brightgreen&style=plastic" /> <a href="https://twitter.com/osmankndmr?ref_src=twsrc%5Etfw" class="twitter-follow-button">
+<a href="https://twitter.com/osmankndmr?ref_src=twsrc%5Etfw" class="twitter-follow-button">
 <img src="https://img.shields.io/twitter/follow/osmankndmr?style=social" />
 </a></p>
 
@@ -63,5 +63,15 @@ class README:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+## 📜 Certificates
+
+|                           Name                          |        Organization         |               Link                   |
+| :-----------------------------------------------------: | :-------------------------: | :----------------------------------- |
+| CCNA - Cisco Certified Network Associate                | Cisco - Netacad             | https://www.cisco.com                |
+| Certified Ethical Hacker V12                            | EC-Council                  | https://www.eccouncil.org/           |
+
+
+
  
  
