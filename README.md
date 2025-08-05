@@ -20,26 +20,26 @@ class README:
             "Telegram": "Undefined",
             "GSM": "Undefined",
             "PGP" : """
-					-----BEGIN PGP PUBLIC KEY BLOCK-----
-					mJkEaJIe+wEEYMplPzpsxx9N+arsmtK/HJXba61NhviouKZafUiE2MhYoaq1kB0F
-					8HKqs4DKeNvOf+qsT+IyhuO72Iae/PhwTt066Z/Qi850YjprHSzfLYQN0ucGTZ6c
-					XS6RWBKNCaMlvep2qYck39K2EvPpn4NUMId7O93CEfJOAMo+TvJnaC4PxUZxWWXW
-					FYCWYG05ABEBAAG0ME9zbWFuIEthbmRlbWlyIChUc3QpIDxvc21hbmthbmRlbWly
-					MDBAZ21haWwuY29tPojgBBMBCAA+FiEEu5n7SrlhLNlsPtB/rPtqlxuqHTEFAmiS
-					HvsCGwMFCRm/zAAFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQrPtqlxuqHTHv
-					1gRePk8mjSup+PmxgRKrjJG4u2jbSmsO+GlqU86NZeT9AV41Q4bOaxgx0ZjN4tm1
-					UnF/OlZAFs6cTttFzxvf0KlbqcpShdB/x5kLjf+gRNvryeAIeN5TYOLu/F7lJ99J
-					umuBdEdVauDr8NsC7Y0LFuCiDRFt2X0WjJhFhV1hpX5G3b19QwKml8Ho4dwozLy4
-					mQRokh77AQRgttAeP2jl2/Cgyd6BGq9UT36LFJwNDBdAQkAr7S5+xtqK/xQXO3fZ
-					I1jtSc0Vv7h4gjCJrNWM9byIO6K2as3158WISoUP3DEKnQAEu914E08x/9+X6vld
-					TLeu9W12evfmZIYQhBPipYkhMqDWMv+Z+ZSBzPvIgW9DqxqRfd72qbNBbnhGKCRn
-					7LNtkqUAEQEAAYjIBBgBCAAmFiEEu5n7SrlhLNlsPtB/rPtqlxuqHTEFAmiSHvsC
-					GwwFCRm/zAAACgkQrPtqlxuqHTHRgARfYXEbgoqNCYW0g36qV2awJSKk+GTrsI0R
-					6kw5xo4iWqcclBLLJiOAToM3ylqdm7qlf+l2K4rIC7bambhslv/5nxwQhEKaG1Qg
-					Ka2wRQAQY5nW7muHNtnBKNIjepg2qxufnCh8O/lqsiWs6LSZfgTjsO7u1VQzu+d3
-					Cuvm90t6IO7enVsDvpdJV4Rm4NI=
-					=71+j
-					-----END PGP PUBLIC KEY BLOCK-----
+			-----BEGIN PGP PUBLIC KEY BLOCK-----
+			mJkEaJIe+wEEYMplPzpsxx9N+arsmtK/HJXba61NhviouKZafUiE2MhYoaq1kB0F
+			8HKqs4DKeNvOf+qsT+IyhuO72Iae/PhwTt066Z/Qi850YjprHSzfLYQN0ucGTZ6c
+			XS6RWBKNCaMlvep2qYck39K2EvPpn4NUMId7O93CEfJOAMo+TvJnaC4PxUZxWWXW
+			FYCWYG05ABEBAAG0ME9zbWFuIEthbmRlbWlyIChUc3QpIDxvc21hbmthbmRlbWly
+			MDBAZ21haWwuY29tPojgBBMBCAA+FiEEu5n7SrlhLNlsPtB/rPtqlxuqHTEFAmiS
+			HvsCGwMFCRm/zAAFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQrPtqlxuqHTHv
+			1gRePk8mjSup+PmxgRKrjJG4u2jbSmsO+GlqU86NZeT9AV41Q4bOaxgx0ZjN4tm1
+			UnF/OlZAFs6cTttFzxvf0KlbqcpShdB/x5kLjf+gRNvryeAIeN5TYOLu/F7lJ99J
+			umuBdEdVauDr8NsC7Y0LFuCiDRFt2X0WjJhFhV1hpX5G3b19QwKml8Ho4dwozLy4
+			mQRokh77AQRgttAeP2jl2/Cgyd6BGq9UT36LFJwNDBdAQkAr7S5+xtqK/xQXO3fZ
+			I1jtSc0Vv7h4gjCJrNWM9byIO6K2as3158WISoUP3DEKnQAEu914E08x/9+X6vld
+			TLeu9W12evfmZIYQhBPipYkhMqDWMv+Z+ZSBzPvIgW9DqxqRfd72qbNBbnhGKCRn
+			7LNtkqUAEQEAAYjIBBgBCAAmFiEEu5n7SrlhLNlsPtB/rPtqlxuqHTEFAmiSHvsC
+			GwwFCRm/zAAACgkQrPtqlxuqHTHRgARfYXEbgoqNCYW0g36qV2awJSKk+GTrsI0R
+			6kw5xo4iWqcclBLLJiOAToM3ylqdm7qlf+l2K4rIC7bambhslv/5nxwQhEKaG1Qg
+			Ka2wRQAQY5nW7muHNtnBKNIjepg2qxufnCh8O/lqsiWs6LSZfgTjsO7u1VQzu+d3
+			Cuvm90t6IO7enVsDvpdJV4Rm4NI=
+			=71+j
+			-----END PGP PUBLIC KEY BLOCK-----
                     """
         }
         self.location = "localhost, Turkey"
