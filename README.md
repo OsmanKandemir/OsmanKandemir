@@ -19,7 +19,8 @@ class README:
             "Whatsapp" : "Undefined",
             "Telegram": "Undefined",
             "GSM": "Undefined",
-            "PGP" : "-----BEGIN PGP PUBLIC KEY BLOCK-----
+            "PGP" : """
+                    -----BEGIN PGP PUBLIC KEY BLOCK-----
                     mQINBGiSF+4BEACuzzgB09cLb0TRQN4EPPdqRmAeX4xkHKlQOfeCn9VmD3B+tqOv
                     +QkeUUuoEyW/3RMS+3YPpkzE1hqj2EtKy7DZpWO0uAbmFQSfEDIUk+9bjYeYteim
                     6s2xwTCmTpb1VmdK3yamaVtq8JQOBsJGB3ev1PvnpaJ63RiMXX++2H3kK5uY2i4I
@@ -69,7 +70,8 @@ class README:
                     d7/G3I02uDaaqbIp1q9Hsa2L1XroGfcEsNNuZh5FS6lvTA0c2QMDPsiMqo2dl0bi
                     /PtgHwHSJ+2vlrFWkxGmJMc=
                     =Ufts
-                    -----END PGP PUBLIC KEY BLOCK-----"
+                    -----END PGP PUBLIC KEY BLOCK-----
+                    """
         }
         self.location = "localhost, Turkey"
         self.occupation = "Security Consultant, Backend Developer"
