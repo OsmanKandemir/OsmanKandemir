@@ -49,7 +49,6 @@ class README:
 
  ## 🖥️ Skills
  
- - Information Security
  - Cyber Security
  - Backend Developer
 
