@@ -15,7 +15,6 @@ class README:
         self.surname = "Kandemir"
         self.age = "Undefined"
         self.contacts = {
-            "Email": "osmankandemir00[@]gmail[.]com",
             "Whatsapp" : "Undefined",
             "Telegram": "Undefined",
             "GSM": "Undefined",
@@ -90,8 +89,9 @@ class README:
 
 |                           Name                          |        Organization         |               Link                   |
 | :-----------------------------------------------------: | :-------------------------: | :----------------------------------- |
+| OSCP / OSCP+                                            | OffSec                      | https://offsec.ocm                   |
 | CCNA - Cisco Certified Network Associate                | Cisco - Netacad             | https://www.cisco.com                |
-| Certified Ethical Hacker V12                            | EC-Council                  | https://www.eccouncil.org/           |
+| Certified Ethical Hacker V12                            | EC-Council                  | https://www.eccouncil.org            |
 
 
 
