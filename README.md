@@ -89,7 +89,7 @@ class README:
 
 |                           Name                          |        Organization         |               Link                   |
 | :-----------------------------------------------------: | :-------------------------: | :----------------------------------- |
-| OSCP / OSCP+                                            | OffSec                      | https://offsec.ocm                   |
+| OSCP / OSCP+                                            | OffSec                      | https://www.offsec.com               |
 | CCNA - Cisco Certified Network Associate                | Cisco - Netacad             | https://www.cisco.com                |
 | Certified Ethical Hacker V12                            | EC-Council                  | https://www.eccouncil.org            |
 
